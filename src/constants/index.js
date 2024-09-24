@@ -12,11 +12,12 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Frontend Developer ",
     company: "ENYATA.",
-    description: `Developed a comprehensive e-commerce platform, achieving a 20% 
+    description: `Developed a comprehensive Diary App platform, achieving a 20% 
 boost in user engagement through enhanced features and user
-friendly using React js, node js, MongoDB, PosGres and other major 
-programming languages.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+friendly using React js, node js, MongoDB, and other major 
+programming languages.Performed quality assurance and integration testing for completed 
+projects ahead of deployment. `,
+    technologies: ["Javascript", "React.js", "Tailwind", "mongoDB"],
   },
   {
     year: "2022 - 2023",
